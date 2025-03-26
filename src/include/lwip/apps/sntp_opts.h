@@ -40,6 +40,8 @@
 #include "lwip/opt.h"
 #include "lwip/prot/iana.h"
 
+#include <sntp_opts_custom.h>
+
 /**
  * @defgroup sntp_opts Options
  * @ingroup sntp
